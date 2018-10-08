@@ -1,0 +1,18 @@
+{
+  "name": "kartheek-ssh",
+  "version": "0.1.0",
+  "author": "kartheek",
+  "summary": null,
+  "license": "Apache-2.0",
+  "source": "https://github.com/bkartheek/kartheek-ssh.git",
+  "project_page": "https://github.com/bkartheek/kartheek-ssh",
+  "issues_url": "https://github.com/bkartheek/kartheek-ssh/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
